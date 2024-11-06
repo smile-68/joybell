@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>JoyBell</title>
-    <link href="https://smile-68.github.io/joybell/feed.xml" rel="self" />
-    <link href="https://smile-68.github.io/joybell" />
+    <link href="https://joybell.net/feed.xml" rel="self" />
+    <link href="https://joybell.net" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Trung Nguyen</name>
     </author>
-    <id>https://smile-68.github.io/joybell</id>
+    <id>https://joybell.net</id>
 
 </feed>

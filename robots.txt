@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://smile-68.github.io/joybell/sitemap.xml
+Sitemap: https://joybell.net/sitemap.xml
