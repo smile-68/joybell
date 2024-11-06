@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JoyBell",
+    "description": "",
+    "home_page_url": "https://smile-68.github.io/joybell",
+    "feed_url": "https://smile-68.github.io/joybell/feed.json",
+    "user_comment": "",
+    "icon": "https://smile-68.github.io/joybell/media/website/JoyBell_Logo.webp",
+    "author": {
+        "name": "Trung Nguyen"
+    },
+    "items": [
+    ]
+}
